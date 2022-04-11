@@ -28,6 +28,12 @@ This project showcase the ultrasonic technology used in obstacle avoidance appli
 
 Input is gotten from the ultrasonic sensor, processed by the Arduino and displayed on the LCD.
 
+# Demo
+
+Watch a demonstration
+
+<a href = 'Distance Sensor with HC-SR04.mov'> <img src = 'Distance Sensor with HC-SR04.png'/> </a>
+
 # TinkerCad Link
 
 Explore the project simulation on <a href = 'https://www.tinkercad.com/things/gjM8gvFenSQ-distance-reader-with-hc-sr04-sensor'> Adobe TikerCad </a>
