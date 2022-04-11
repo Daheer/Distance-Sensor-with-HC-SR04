@@ -32,7 +32,7 @@ Input is gotten from the ultrasonic sensor, processed by the Arduino and display
 
 Watch a demonstration
 
-<a href = 'Distance Sensor with HC-SR04.mov'> <img src = 'Distance Sensor with HC-SR04.png'/> </a>
+<a href = 'Distance Sensor with HC-SR04.mov'> <img height = 500 width = 500 src = 'Distance Sensor with HC-SR04.png'/> </a>
 
 # TinkerCad Link
 
