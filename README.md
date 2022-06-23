@@ -40,5 +40,7 @@ Explore the project simulation on <a href = 'https://www.tinkercad.com/things/gj
 
 # Contact
 
-Dahir Ibrahim (Deedax Inc) - http://instagram.com/deedax_inc Email - suhayrid6@gmail.com 
+Dahir Ibrahim (Deedax Inc) - http://instagram.com/deedax_inc <br>
+Email - suhayrid6@gmail.com <br>
+YouTube - https://www.youtube.com/channel/UCqvDiAJr2gRREn2tVtXFhvQ <br>
 Project Link - https://github.com/Daheer/Distance-Sensor-with-HC-SR04
